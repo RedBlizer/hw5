@@ -1,0 +1,29 @@
+body{
+    text-align:center;
+}
+
+input{
+    height:30px;
+}
+
+button{
+    color:blue;
+    background-color: #e8bfbf;
+    height:40px;
+    width:100px;
+}
+
+table{
+    padding: 20px;
+    width:400px;
+    margin-left:auto;
+    margin-right:auto;
+}
+th , td{
+    border:3px solid black;
+    width:100px;
+}
+th{
+    background-color:green;
+    color:white;
+}
